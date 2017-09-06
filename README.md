@@ -1,33 +1,12 @@
-# Insta-Downloader
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-InstaDownloader-red.svg?style=flat)](https://android-arsenal.com/details/1/6088)
+# Instagram-Indirme-Video-ve-Resim
 
-Simple Video &amp; Photo Downloader or Repost for Instagram.
+Instagram için basit ve kullanışlı resim ve video indirme uygulaması
 
-![gif](http://i.giphy.com/l3fzQ8q7hqaQ2ppOE.gif)
+![photo](https://i.hizliresim.com/OLWba4.png)
 
-Usage
------
-```java
-...
-
-// config
-InstaDownloader insta = new InstaDownloader(this);
-insta.setAccessToken("Instagram API Access Token");
-insta.setDir("/download");
-
-// get video or photo by url
-insta.get("https://www.instagram.com/p/xxx");
-```
-
-Step by step
+İndirme İşlemi
 ------------
-- Open the InstaDownloader app
-- Open the Instagram app
-- Click on the Copy Share URL menu
-- Click the download or repost button
-
-<a href="https://play.google.com/store/apps/details?id=com.bachors.downgram">Demo</a>
--------------------------------------------------------------------------------------
-
-MIT
------
+- Uygulamayı Açınız.
+- Uygulamadan Üstte Bulunan İnstagram Logosuna Basınız.
+- İstediğiniz Resimin URL Adresini Kopyalayınız.
+- Gelen Ekrandan İndirme İşlemini Tamamlayınız.
