@@ -1,6 +1,6 @@
-# Instagram-Indirme-Video-ve-Resim
+# Instagram Indirme - Video & Resim
 
-![photo](https://i.hizliresim.com/vp0Glr.png)
+![photo](https://i.hizliresim.com/mkVbDY.png)
 
 Instagram için basit ve kullanışlı resim ve video indirme uygulaması
 
