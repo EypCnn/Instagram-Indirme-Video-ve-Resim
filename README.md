@@ -1,8 +1,10 @@
 # Instagram-Indirme-Video-ve-Resim
 
+![photo](https://i.hizliresim.com/vp0Glr.png)
+
 Instagram için basit ve kullanışlı resim ve video indirme uygulaması
 
-![photo](https://i.hizliresim.com/OLWba4.png)
+![photo](https://i.hizliresim.com/PrRdz8.png)
 
 İndirme İşlemi
 ------------
